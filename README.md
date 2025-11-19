@@ -12,10 +12,10 @@ AllInOneTools.app is a collection of free developer utilities designed for forma
 - Free forever, no login
 
 ## 📦 Included Tools
-- JSON Beautifier – [https://allinonetools.app/json-formatter](https://allinonetools.app/tools/json-beautify)
-- JSON Minifier – [https://allinonetools.app/json-minify](https://allinonetools.app/tools/json-minify)
-- JSON Validator – [https://allinonetools.app/json-validator](https://allinonetools.app/tools/json-validator)
-- Text Uppercase Converter – [https://allinonetools.app/text-uppercase](https://allinonetools.app/tools/text-to-uppercase)
+- JSON Beautifier – [https://allinonetools.app/tools/json-beautify](https://allinonetools.app/tools/json-beautify)
+- JSON Minifier – [https://allinonetools.app/tools/json-minify](https://allinonetools.app/tools/json-minify)
+- JSON Validator – [https://allinonetools.app/tools/json-validator](https://allinonetools.app/tools/json-validator)
+- Text Uppercase Converter – [https://allinonetools.app/tools/text-to-uppercase](https://allinonetools.app/tools/text-to-uppercase)
 - Word Counter - [https://allinonetools.app/tools/word-counter](https://allinonetools.app/tools/word-counter)
 
 ## 🧑‍💻 Contribution
